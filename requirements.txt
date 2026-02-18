@@ -1,0 +1,5 @@
+torch>=2.10.0
+numpy
+soundfile
+pydub
+qwen_tts
