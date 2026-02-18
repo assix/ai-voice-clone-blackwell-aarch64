@@ -1,6 +1,6 @@
 # ai-voice-clone-blackwell-aarch64
 
-**A high-performance, multilingual voice cloning engine (EN, FR, AR) optimized for NVIDIA Blackwell (GB10) GPUs and ARM64 architecture.**
+**A high-performance, multilingual voice cloning engine for English, French and Arabic (EN, FR, AR) optimized for NVIDIA Blackwell GPUs and ARM64 architecture.**
 
 
 
@@ -124,4 +124,3 @@ python src/clone_arabic.py
 ## 🔒 License & Privacy
 
 **License:** MIT
-**Privacy Note:** This repository includes a strict `.gitignore` configuration. **NEVER** commit your personal `.wav` or `.mp3` files to GitHub.
